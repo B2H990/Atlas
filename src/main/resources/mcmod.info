@@ -1,0 +1,16 @@
+[
+{
+  "modid": "Atlas",
+  "name": "Atlas",
+  "description": "a epic modpack.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["x3", "Xenforu", "Xenforu", "carroteater"],
+  "credits": "bommer",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
